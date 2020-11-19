@@ -9,3 +9,15 @@
 /Users/davidstarr/OneDrive/Pluralsight/Pattern_Facade/before/BallOfMud/obj/Debug/netcoreapp3.0/BallOfMud.AssemblyInfo.cs
 /Users/davidstarr/OneDrive/Pluralsight/Pattern_Facade/before/BallOfMud/obj/Debug/netcoreapp3.0/BallOfMud.dll
 /Users/davidstarr/OneDrive/Pluralsight/Pattern_Facade/before/BallOfMud/obj/Debug/netcoreapp3.0/BallOfMud.pdb
+D:\FacadePattern\FacadePattern\BallOfMud\bin\Debug\netcoreapp3.0\BallOfMud.exe
+D:\FacadePattern\FacadePattern\BallOfMud\bin\Debug\netcoreapp3.0\BallOfMud.deps.json
+D:\FacadePattern\FacadePattern\BallOfMud\bin\Debug\netcoreapp3.0\BallOfMud.runtimeconfig.json
+D:\FacadePattern\FacadePattern\BallOfMud\bin\Debug\netcoreapp3.0\BallOfMud.runtimeconfig.dev.json
+D:\FacadePattern\FacadePattern\BallOfMud\bin\Debug\netcoreapp3.0\BallOfMud.dll
+D:\FacadePattern\FacadePattern\BallOfMud\bin\Debug\netcoreapp3.0\BallOfMud.pdb
+D:\FacadePattern\FacadePattern\BallOfMud\obj\Debug\netcoreapp3.0\BallOfMud.csprojAssemblyReference.cache
+D:\FacadePattern\FacadePattern\BallOfMud\obj\Debug\netcoreapp3.0\BallOfMud.csproj.CoreCompileInputs.cache
+D:\FacadePattern\FacadePattern\BallOfMud\obj\Debug\netcoreapp3.0\BallOfMud.AssemblyInfoInputs.cache
+D:\FacadePattern\FacadePattern\BallOfMud\obj\Debug\netcoreapp3.0\BallOfMud.AssemblyInfo.cs
+D:\FacadePattern\FacadePattern\BallOfMud\obj\Debug\netcoreapp3.0\BallOfMud.dll
+D:\FacadePattern\FacadePattern\BallOfMud\obj\Debug\netcoreapp3.0\BallOfMud.pdb
