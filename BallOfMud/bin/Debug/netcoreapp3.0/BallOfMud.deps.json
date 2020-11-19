@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "BallOfMud/1.0.0": {
+        "runtime": {
+          "BallOfMud.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BallOfMud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
